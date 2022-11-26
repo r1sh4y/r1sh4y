@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @r1sh4y
 - 👀 I’m interested in artificial intelligence 
-- 🌱 I’m Python
+- 🌱 I’m currently learning Python
 - 📫 my instagram :- anonymous39790
 
 <!---
