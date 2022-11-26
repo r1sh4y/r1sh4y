@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @r1sh4y
-- 👀 I’m artificial intelligence 
+- 👀 I’m interested in artificial intelligence 
 - 🌱 I’m Python
 - 📫 my instagram :- anonymous39790
 
